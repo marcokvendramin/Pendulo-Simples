@@ -1,4 +1,4 @@
-# Pêndulo Simples – Pipeline de Análise
+# Pêndulo Simples – APS de Física Teórica 2 
 
 Projeto acadêmico para análise experimental de um pêndulo simples usando **Python + OpenCV + SciPy**.  
 Extrai coordenadas do vídeo, ajusta o modelo de oscilador harmônico amortecido (OHA) e gera gráficos + relatórios.
